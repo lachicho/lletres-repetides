@@ -1,3 +1,4 @@
 # lletres-repetides
 Archivo con ejercicios Lletres Repetides.
-Realicé hasta el nivel 2 pero me devuelve solo un email y creo por la consigna que debería incluir también el ejemplo nombre-de-usuario@el-nombre-de-sus-sueños.es.
+Existen dos commit ya que la primera versión no identificaba las 'ñ'. Se modificó la expresión regular para lograr completar el nivel 2.
+
